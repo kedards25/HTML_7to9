@@ -1,0 +1,30 @@
+<!doctype>gives information about 	
+	  version of html we are using
+	this tag is optional to mention
+<html>
+	Starting tag of web page
+	Root tag of our page
+<head>
+	will never render/display on browser 
+	but will act as supporting tag for the 		content mentioned in body tag
+</head>
+<body>
+	this acts as a container for all the 		tags which are displayed on the browser
+</body>
+</html>	=>closing tag with '/'
+
+tags which are included within head tag:
+title
+	provides title to web page in the tab of 	the browser
+base	
+	instead of providing source/path of each 	file to be embeded in web page 	separately,we can provide common path to 	all of them using base tag
+style
+	Helps to apply style to the content in 	the body tag and make the webpage look 
+	attractive
+script
+	Web page created using html tags is 	static by default,in order to make it 	dynamic we should use script tag
+meta
+	meta data(additional information) about 	the web page
+link
+noscript
+

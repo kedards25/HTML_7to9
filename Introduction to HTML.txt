@@ -1,0 +1,41 @@
+HTML
+Hyper Text Markup Language
+
+Hyper Text:Text or content delivered over the web
+Markup language:any language which consists of tags	<>
+
+Internet is defined as interconnected network of computers across the globe
+
+Web is source of information scattered over the internet but interconnected/interlinked
+Information will be fetched from different servers like google,bing,apple,amazon based on the topic we have searched for.
+
+Diff between internet and intranet??
+Internet:
+Interconnected network of computers over the globe
+
+Intranet:
+Interconnected network of computers in an organization
+
+Website:Collection of web pages
+
+Types of web pages we can have:
+	static
+	dynamic
+
+Static web pages
+	Which deliver/display same information to all the users 		searching for same topic
+	e.g.If we search for "information of mobile devices" on 		wikipedia
+
+Dynamic web pages
+	We will get user specific information like we get in 	instagram/gmail/whatsapp
+	
+
+
+
+
+
+
+
+
+
+	
