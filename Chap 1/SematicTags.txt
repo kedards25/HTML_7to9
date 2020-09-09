@@ -1,0 +1,28 @@
+semantic tags
+
+<hgroup id="headingsTag" style="">
+	<h1>Sample</h1>
+	<h3>Sample</h3>
+	<h5>sample</h5>
+	<h2>sample</h2>
+</hgroup>
+
+<nav>
+<a href="SpanTagDemo.html" target="_blank">Navigate to Span Demo</a>
+<a href="ImagesTagDemo.html" target="_blank">Navigate to IMagesDemo</a>
+<a href="DivTagDemo.html" target="_blank">Navigate to div Demo</a>
+<a href="ListsTagDemo.html" target="_blank">Navigate to lists Demo</a>
+</nav>
+
+<figure>	
+	<figcaption>Images demo</figcaption>
+	<img src="logo.png" height="100" width="200" alt="color-strip" title="color-strip"/>
+</figure>
+
+<!-- won't appear as a header because the name suggests-->
+<header>
+
+<!-- won't appear as a footer because the name suggests-->
+<footer>
+<article>
+<aside>
